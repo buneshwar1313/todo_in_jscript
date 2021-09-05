@@ -33,7 +33,7 @@ document.querySelector('#push').onclick = function(){
             }
         }
 
-        Document.querySelector("#newtask input").value="";
+        document.querySelector("#newtask input").value= "";
     }
 
 }
